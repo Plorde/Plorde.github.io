@@ -1,0 +1,14 @@
+<div class="section">
+    <h1 class="section-title">Education</h1>
+    {{ range .Site.Data.education }}
+    <div class="item">
+        <h3 class="item-title">{{ .name }} </h3>
+        <div class="flex-row">
+          <span class="job-title">{{ .university }}</span>
+          <span class="date">{{ .date }}</span></div>
+          <span> GPA: {{ .gpa }}</span><br>
+          <span> {{ .scores }}</span><br>
+
+    </div>
+    {{ end }}
+</div>

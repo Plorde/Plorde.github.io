@@ -1,0 +1,46 @@
+baseURL = "/"
+languageCode = "en-us"
+theme = "resume-A4"
+title = "Resume | Rui Long"
+
+[params]
+avatar = "avatar.jpg"
+useFontAwesome = true
+
+[params.display]
+aboutMe = false
+avatar = true
+awards = true
+contact = true
+address = true
+education = true
+experience = true
+interests = false
+languages = true
+papers = false
+projects = false
+skills = false
+skills_grouped = true
+tagline = true
+
+[params.display.footer]
+credits = true
+footer = true
+links = true
+
+[params.footer]
+footnote = "Last update on 2020.10.08"
+
+[params.footer.links]
+
+[[params.footer.links.link]]
+icon = "fab fa-github"
+name = "Github"
+prefix = "Check out my"
+url = "https://github.com/plorde"
+
+[[params.footer.links.link]]
+icon = ""
+name = "blogs"
+prefix = "Find me on"
+url = "https://www.cnblogs.com/Plorde/"

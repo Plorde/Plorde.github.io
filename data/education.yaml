@@ -1,0 +1,5 @@
+- name: "B.Eng in Computer Science"
+  university: "Wuhan University"
+  date: "2017 - 2021"
+  gpa : "3.72 / 4.0"
+  scores: "Mobile App Design: 100/100 Computer Networking: 92/100 Image Processing: 93/100  Algorithm Design: 92/100 Linear Algebra: 92/100"

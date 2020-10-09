@@ -1,0 +1,54 @@
+skills:
+  - "C/C++ - Rust - Go"
+  - "Python - Bash - Java"
+  - "Lisp/Scheme"
+  - "Linux - Vim - GDB"
+  - "Git - CI/CD"
+
+skillsGrouped:
+  # - groupName: "Databases & Visualization"
+  #   skills: ["Grafana - Kibana - PowerBI", "InfluxDB - TICK Stack"]
+ 
+  # - groupName: "Data Analysis & Analytics"
+  #   skills: ["Python - R - SQL", "Excel - Minitab - SPSS", "GAMS - PuLP - OR Tools"]
+
+  - groupName: "iOS Develope"
+    skills: ["ObjectiveC - Swift","XCode", "UIKit - SwiftUI",]
+  
+  - groupName: "Programming language"
+    skills: ["Java - JavaSpring/SpringBoot" , "Python - Tensorflow", "JavaScript - Vue"]
+
+languages:
+  - name: "Chinese"
+    level: "Native"
+
+  - name: "English"
+    level: "Professional"
+    certificates: ["TOEFL: 86"]
+
+address:
+    - "Block Xing6, campus of informatics, Wuhan University, Hongshan District, Wuhan, Hubei, China. Postal Code 430072"
+    - "中国湖北省武汉市洪山区武汉大学信息学部星6舍"
+
+about:
+  - name: "Rui Long"
+    tagline: "ios developer, self-motivated"
+    phone: "+86 19986693616"
+    email: "plordelr@gmail.com, 2017301500269@whu.edu.cn"
+    details: "
+    [blogs](https://www.cnblogs.com/Plorde/)"
+
+awards:
+  - name: "Chinese iOT Design Competition - First Prize"
+    date: "2020.9"
+    details: "an intelligent dustbin recycling masks from others garbage"
+  
+  - name: "CCCC-Mobile Application Innovation Contest - First Prize"
+    date: "2019.9"
+    details: "an automatic slides maker app on iOS
+    [link](http://www.future.org.cn/info/1142/22172.htm)"
+
+
+  - name: "Excellent Student Scholarship of Wuhan University - First Class"
+    date: ""
+    details: ""
